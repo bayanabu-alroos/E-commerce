@@ -1,0 +1,2 @@
+2022-09-07T06:02:22+00:00 CRITICAL Out of memory (allocated 79691776) (tried to allocate 20480 bytes) in C:\xampp\htdocs\Wepsite\wp-content\plugins\woocommerce\src\Admin\API\Reports\Variations\Controller.php on line 269
+
